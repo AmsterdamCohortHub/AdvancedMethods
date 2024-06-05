@@ -1,4 +1,4 @@
-## Areas of expertise
+## Methods
 
   - [[Methods/Mendelian Randomization]]
   - [[Methods/Genome-Wide Association Study]]
