@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: WG2 - Advanced Methods
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+--intro--
+
+| | |
+|-|-|
+|[[Data/]]|--description--|
+|[[Topics/]]|--description--|
+|[[Methods/]]|--description--|
+|[[Researchers/]]|--description--|
