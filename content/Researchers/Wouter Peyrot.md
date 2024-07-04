@@ -1,6 +1,6 @@
 ## Methods
 
-  - [[Methods/Polygenic Prediction]
+  - [[Methods/Polygenic Prediction]]
   - [[Methods/Genome Wide Association Studies]]
   - [[Methods/Mendelian Randomisation]]
   - [[Methods/Genetic Correlation]]
