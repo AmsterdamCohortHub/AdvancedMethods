@@ -7,6 +7,7 @@
 
   - [[Topics/Brain Networks]]
   - [[Topics/Machine Learning]]
+  - [[Topics/Graph Theory]]
  
 
 ## Resources
