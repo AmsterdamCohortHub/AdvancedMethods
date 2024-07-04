@@ -3,13 +3,13 @@
 
   - [[Methods/Causal Inference]]
   - [[Methods/Target Trial Emulation]]
-  - [[Methods/Dynamic prediction]]
-  - [[Methods/Prediction models]]
+  - [[Methods/Dynamic Prediction]]
+  - [[Methods/Prediction Models]]
 
 ## Topics
 
-  - [[Topics/Causal inference]]
-  - [[Topics/Prediction models]]
+  - [[Topics/Causal Inference]]
+  - [[Topics/Prediction and Modelling]]
 
 ## Resources
 
