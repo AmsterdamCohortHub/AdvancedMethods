@@ -1,7 +1,7 @@
 
 ## Methods
 
-  - [[Methods/Epigenetics]]
+  - [[Methods/Epigenomics]]
   - [[Methods/Biological Aging Estimations]]
   - [[Methods/Chromosomal Instability Estimation]]
   - [[Methods/Integrating Omics Data]]
