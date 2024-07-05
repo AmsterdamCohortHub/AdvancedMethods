@@ -12,7 +12,9 @@ Artificial intelligence utilizes complex algorithms and statistical models to an
 
  - [[Data/Numeric]]
  - [[Data/Phenotypic]]
+ - [[Data/Molecular]]
  - [[Data/Longitudinal]]
+ - [[Data/Cross-sectional]]
  - [[Data/Geo]]
  - [[Data/Imaging]]
  - [[Data/Sound]]
