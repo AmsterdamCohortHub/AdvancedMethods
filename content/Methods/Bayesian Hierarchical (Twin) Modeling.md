@@ -22,7 +22,7 @@ Bayesian Hierarchical (Twin) Modeling is a statistical framework that integrates
 
 ## Researcher
 
-  - [[Researcher/Dirk van pelt]]
+  - [[Researcher/Dirk van Pelt]]
 
 ## Resources
 
