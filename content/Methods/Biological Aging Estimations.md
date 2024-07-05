@@ -22,7 +22,7 @@ Biological age estimation is a method of predicting an individual's age based on
 
 ## Researcher
 
-  - [[Researcher/Felix Chilunga]
+  - [[Researcher/Felix Chilunga]]
 
 ## Resources
 
