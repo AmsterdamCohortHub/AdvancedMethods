@@ -5,7 +5,7 @@ tags:
   - quantitative
 ---
 
-Dual clustering approach.
+Non-negative Matrix Factorization (NMF), a method in linear algebra, is applied in healthcare to analyze complex biomedical data, extract meaningful patterns, and gain insights into disease mechanisms, diagnosis, and treatment. By decomposing high-dimensional data matrices into lower-dimensional non-negative components
 
 ## Data
 
