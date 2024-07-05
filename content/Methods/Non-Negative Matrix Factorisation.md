@@ -9,6 +9,12 @@ Non-negative Matrix Factorization (NMF), a method in linear algebra, is applied 
 
 ## Data
 
+ - [[Data/Numeric]]
+ - [[Data/Phenotypic]]
+ - [[Data/Molecular]]
+ - [[Data/Longitudinal]]
+ - [[Data/Cross-sectional]]
+
 ## Topics
 
   - [[Topics/Machine Learning]]
