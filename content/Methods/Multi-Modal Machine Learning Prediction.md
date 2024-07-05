@@ -8,7 +8,7 @@ tags:
   - quantitative 
 ---
 
-Artificial intelligence utilizes complex algorithms and statistical models to analyze vast amounts of healthcare data, including patient records, medical images, and genomic information. 
+Multi-modal machine learning prediction utilizes complex algorithms and statistical models to analyze vast amounts of healthcare data, including patient records, medical images, and genomic information.
 
 ## Data
 
