@@ -8,6 +8,15 @@ tags:
 
 Machine learning is a method in healthcare that uses algorithms to analyze medical data, identify patterns, and improve diagnoses, personalize treatment, predict outcomes, and accelerate drug discovery
 
+## Data
+
+ - [[Data/Numeric]]
+ - [[Data/Phenotypic]]
+ - [[Data/Longitudinal]]
+ - [[Data/Geo]]
+ - [[Data/Imaging]]
+ - [[Data/Sound]]
+
 ## Topics
 
   - [[Topics/Artificial Intelligence]]
@@ -18,4 +27,4 @@ Machine learning is a method in healthcare that uses algorithms to analyze medic
 
 ## Resources
 
-  - [review paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822225/)
+  - [Review Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8822225/)
