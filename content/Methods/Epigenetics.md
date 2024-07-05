@@ -17,7 +17,7 @@ Epigenetics is the study of heritable changes in gene expression or cellular phe
 
 ## Topics
 
-  - [[Topics/Epigenetics]]
+  - [[Topics/Epigenomics]]
   - [[Topics/Omics]]
 
 ## Researcher
