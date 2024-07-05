@@ -9,6 +9,15 @@ tags:
 
 Cybersecurity and cryptography are essential methods in healthcare that protect sensitive patient data and medical systems through measures like firewalls, encryption, and access controls.
 
+## Data
+
+ - [[Data/Numeric]]
+ - [[Data/Phenotypic]]
+ - [[Data/Longitudinal]]
+ - [[Data/Geo]]
+ - [[Data/Imaging]]
+ - [[Data/Sound]]
+
 ## Topics
 
   - [[Topics/Data Encryption]]
