@@ -15,7 +15,7 @@ Response Surface Analysis (RSA), also known as Response Surface Methodology (RSM
  - [[Data/Numeric]]
  - [[Data/Phenotypic]]
  - [[Data/Longitudinal]]
- - [[Data/Crossectional]
+ - [[Data/Crossectional]]
    
 ## Topics
 
