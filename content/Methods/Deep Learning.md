@@ -12,10 +12,13 @@ Deep learning, a subset of machine learning, is a method in healthcare that uses
 
  - [[Data/Numeric]]
  - [[Data/Phenotypic]]
+ - [[Data/Molecular]]
  - [[Data/Longitudinal]]
+ - [[Data/Cross-sectional]]
  - [[Data/Geo]]
  - [[Data/Imaging]]
  - [[Data/Sound]]
+
 
 ## Topics
 
