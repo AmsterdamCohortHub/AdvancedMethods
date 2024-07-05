@@ -10,6 +10,11 @@ Test for causality between two traits with genetic data, based on the idea that 
 
 ## Data
 
+ - [[Data/Numeric]]
+ - [[Data/Molecular]]
+ - [[Data/Longitudinal]]
+ - [[Data/Cross-sectional]]
+
 ## Topics
 
   - [[Topics/Causal Inference]]
