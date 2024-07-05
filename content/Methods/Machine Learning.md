@@ -12,7 +12,9 @@ Machine learning is a method in healthcare that uses algorithms to analyze medic
 
  - [[Data/Numeric]]
  - [[Data/Phenotypic]]
+ - [[Data/Molecular]]
  - [[Data/Longitudinal]]
+ - [[Data/Cross-sectional]]
  - [[Data/Geo]]
  - [[Data/Imaging]]
  - [[Data/Sound]]
