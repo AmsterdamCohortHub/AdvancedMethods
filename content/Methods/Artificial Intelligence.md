@@ -8,6 +8,15 @@ tags:
 
 Artificial intelligence utilizes complex algorithms and statistical models to analyze vast amounts of healthcare data, including patient records, medical images, and genomic information. 
 
+## Data
+
+ - [[Data/Numeric]]
+ - [[Data/Phenotypic]]
+ - [[Data/Longitudinal]]
+ - [[Data/Geo]]
+ - [[Data/Imaging]]
+ - [[Data/Sound]]
+
 ## Topics
 
   - [[Topics/Artificial Intelligence]]
@@ -18,4 +27,4 @@ Artificial intelligence utilizes complex algorithms and statistical models to an
 
 ## Resources
 
-  - [review paper](https://svn.bmj.com/content/2/4/230.full)
+  - [Review Paper](https://svn.bmj.com/content/2/4/230.full)
