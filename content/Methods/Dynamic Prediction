@@ -1,0 +1,28 @@
+---
+aliases:
+  - Time-Dependent Prediction
+  - Longitudinal Prediction
+  - Time-Varying Prediction
+
+tags:
+  - quantitative
+---
+Dynamic prediction involves using time-varying data to update predictions about an individual's health status or disease progression over time (in medicine) or to forecast health outcomes and disease trends at the population level (in public health). 
+
+## Data
+
+ - [[Data/Numeric]]
+ - [[Data/Phenotypic]]
+ - [[Data/Longitudinal]]
+
+## Topics
+
+  - [[Topics/Prediction and Modelling]]
+
+## Researchers
+
+- [[Researchers/Rik van Eekelen]]
+
+## Resources
+
+  - [Review Paper](https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.full)
