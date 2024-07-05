@@ -21,4 +21,4 @@ Single Subject Grey Matter Networks (SSGMN) is a method in neuroscience that use
 
 ## Resources
 
-  - [review paper](https://github.com/bettytijms/Single_Subject_Grey_Matter_Networks)
+  - [Github](https://github.com/bettytijms/Single_Subject_Grey_Matter_Networks)
