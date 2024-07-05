@@ -26,3 +26,4 @@ Dynamic Time Warping is an algorithm used to measure the similarity between two 
   - [[Researcher/Gaby Lunansky]]
 
 ## Resources
+  - [Review Paper](https://link.springer.com/article/10.1186/s12916-020-01867-5)
