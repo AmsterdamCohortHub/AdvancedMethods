@@ -3,7 +3,6 @@ aliases:
   - Bayesian Inference
   - Probabilistic Modeling
   - Bayesian Statistics
- 
 tags:
   - quantitative 
 ---
