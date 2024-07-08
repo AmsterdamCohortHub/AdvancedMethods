@@ -21,7 +21,6 @@ Genome-Wide Association Studies (GWAS) are observational studies that investigat
 ## Topics
 
   - [[Topics/Genomics]]
-  - [[Topics/Omics]]
 
 ## Researcher
 
