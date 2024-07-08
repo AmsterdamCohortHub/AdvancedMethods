@@ -8,6 +8,7 @@
 ## Topics
 
   - [[Topics/Artificial Intelligence]]
+  - [[Topics/Machine Learning]]
   - [[Topics/Data Encryption]]
 
 ## Resources
