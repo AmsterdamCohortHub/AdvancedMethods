@@ -9,6 +9,7 @@
 
   - [[Topics/Causal Inference]]
   - [[Topics/Prediction and Modelling]]
+  - [[Topics/Time Series Analysis]]
 
 ## Resources
 
