@@ -6,7 +6,7 @@ tags:
   - quantitative 
 ---
 
-Epigenetics is the study of heritable changes in gene expression or cellular phenotype caused by mechanisms other than changes in the underlying DNA sequence. These changes can be influenced by various environmental and developmental factors.
+Epigenomics is the study of the complete set of epigenetic modifications on the genetic material of a cell, known as the epigenome. These modifications, which do not alter the DNA sequence itself, play a crucial role in gene regulation and can influence various biological processes and disease states. Epigenomics research investigates how these modifications are established, maintained, and inherited, providing insights into development, aging, and complex diseases.
 
 ## Data
 
