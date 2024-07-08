@@ -23,7 +23,7 @@ Dynamic Prediction refers to the modeling and forecasting of outcomes that chang
 
 ## Researcher
 
-  - [[Researcher/Rik van Eekelen ]]
+  - [[Researcher/Rik van Eekelen]]
 
 ## Resources
 
