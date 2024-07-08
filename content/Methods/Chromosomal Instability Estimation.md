@@ -20,7 +20,7 @@ Artificial intelligence utilizes complex algorithms and statistical models to an
 ## Topics
 
   - [[Topics/Genetics]]
-  - [[Topics/Omics]]
+  - [[Topics/Intergrative Omics]]
 
 ## Researcher
 
