@@ -22,7 +22,6 @@ Test for causality between two traits with genetic data, based on the idea that 
 
 ## Researchers
 
-- [[Researchers/Rik van Eekelen]]
 - [[Researchers/Wouter Peyrot]]
 
 ## Resources
