@@ -17,7 +17,7 @@ Drift diffusion modeling, a mathematical framework inspired by neuroscience, sim
 
 ## Topics
 
-  - [[Topics/Prediction and Modelling]]
+  - [[Topics/Behavioral Science]]
 
 ## Researcher
 
