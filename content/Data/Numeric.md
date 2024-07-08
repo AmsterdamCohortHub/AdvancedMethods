@@ -11,9 +11,11 @@
   - [[Methods/Symptomic Network Analysis]]
 
 ## Multi-Omics Data Integration
+
   - [[Methods/Intergrating Omics Data]]
 
 ## Statistical and Machine Learning Methods
+
   - [[Methods/Bayesian Modelling]]
   - [[Methods/Complexity Science Modelling]]
   - [[Methods/Deep Learning]]
@@ -31,6 +33,7 @@
   - [[Methods/Target Trial Emulation]]
 
 ## Molecular Aging Research
+
   - [[Methods/Biological Aging Estimations]]
   - [[Methods/Chromosomal Instability Estimation]]
 
