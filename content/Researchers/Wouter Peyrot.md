@@ -3,8 +3,6 @@
   - [[Methods/Polygenic Prediction]]
   - [[Methods/Genome Wide Association Studies]]
   - [[Methods/Mendelian Randomisation]]
-  - [[Methods/Genetic Correlation]]
-  - [[Methods/SNP-heritability]]
 
 ## Topics
 
