@@ -22,7 +22,7 @@ Target Trial Emulation (TTE) is a methodological framework for designing and ana
 
 ## Researcher
 
-  - [[Researcher/Rik van Eekelen ]]
+  - [[Researcher/Rik van Eekelen]]
 
 ## Resources
 
