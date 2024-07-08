@@ -1,7 +1,6 @@
 
 ## Methods
 
-  - [[Methods/Causal Inference]]
   - [[Methods/Target Trial Emulation]]
   - [[Methods/Dynamic Prediction]]
   - [[Methods/Prediction Models]]
