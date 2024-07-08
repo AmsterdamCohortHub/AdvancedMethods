@@ -21,7 +21,7 @@ Multi-modal machine learning prediction utilizes complex algorithms and statisti
 
 ## Topics
 
-  - [[Topics/Artificial Intelligence]]
+  - [[Topics/Machine Learning]]
 
 ## Researcher
 
