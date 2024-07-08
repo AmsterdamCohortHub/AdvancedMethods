@@ -1,3 +1,4 @@
+Cross-sectional data is data collected by observing many subjects (such as individuals, countries, or regions) at a single point or period in time. It provides a snapshot of the characteristics of a population or sample at a specific moment.
 
 ## Genomics and Epigenomics
 
