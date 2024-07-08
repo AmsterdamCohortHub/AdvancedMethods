@@ -18,7 +18,7 @@ Epigenomics is the study of the complete set of epigenetic modifications on the 
 ## Topics
 
   - [[Topics/Epigenetics]]
-  - [[Topics/Omics]]
+  - [[Topics/Intergrative Omics]]
 
 ## Researcher
 
