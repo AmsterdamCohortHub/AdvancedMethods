@@ -3,7 +3,7 @@ aliases:
   - Multi-Omics
 ---
 
-Omics refers to a group of biological sciences that study the entirety of a specific type of biomolecule or molecular process within an organism. These fields are characterized by the suffix "-omics" and include genomics (study of genes), proteomics (study of proteins), metabolomics (study of metabolites), transcriptomics (study of RNA transcripts), and lipidomics (study of lipids).
+Integrative omics is a field of study that combines and analyzes data from multiple omics disciplines, such as genomics, proteomics, metabolomics, transcriptomics, and lipidomics. Unlike individual omics fields that focus on a single type of biomolecule, integrative omics aims to understand the complex interactions and relationships between different molecular layers within an organism.
 
 ## Researchers
 
