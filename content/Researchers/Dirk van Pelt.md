@@ -1,7 +1,7 @@
 ## Methods
 
   - [[Methods/Response Surface Analysis]]
-  - [[Methods/Bayesian Heirachical (Twin) Modelling]]
+  - [[Methods/Bayesian Modelling]]
   - [[Methods/Multi-Modal Machine Learning Prediction]]
   - [[Methods/Item Response Theory]]
 
