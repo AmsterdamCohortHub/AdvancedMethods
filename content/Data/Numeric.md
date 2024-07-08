@@ -1,24 +1,37 @@
-## Advanced Methods Applied to Numeric Data
+
+## Genomics and Epigenomics
+
+  - [[Methods/Epigenomics]]
+  - [[Methods/Genome Wide Association Studies]]
+  - [[Methods/Polygenic Prediction]]
+
+## Brain Imaging and Networks
+
+  - [[Methods/Single Subject Grey Matter Networks]]
+  - [[Methods/Symptomic Network Analysis]]
+
+## Multi-Omics Data Integration
+  - [[Methods/Intergrating Omics Data]]
+
+## Statistical and Machine Learning Methods
   - [[Methods/Bayesian Modelling]]
-  - [[Methods/Biological Aging Estimations]]
-  - [[Methods/Chromosomal Instability Estimation]]
   - [[Methods/Complexity Science Modelling]]
   - [[Methods/Deep Learning]]
   - [[Methods/Drift Diffusion Modelling]]
   - [[Methods/Dynamic Prediction]]
   - [[Methods/Dynamic Time Warping]]
-  - [[Methods/Epigenomics]]
-  - [[Methods/Genome Wide Association Studies]]
-  - [[Methods/Intergrating Omics Data]]
   - [[Methods/Item Response Theory]]
   - [[Methods/Machine Learning]]
   - [[Methods/Markov Chain Monte Carlo Models]]
   - [[Methods/Mendelian Randomization]]
   - [[Methods/Multi-Modal Machine Learning Prediction]]
   - [[Methods/Non-Negative Matrix Factorisation]]
-  - [[Methods/Polygenic Prediction]]
   - [[Methods/Probabilistic Graphical Models]]
   - [[Methods/Response Surface Analysis]]
-  - [[Methods/Single Subject Grey Matter Networks]]
-  - [[Methods/Symptomic Network Analysis]]
   - [[Methods/Target Trial Emulation]]
+
+## Molecular Aging Research
+  - [[Methods/Biological Aging Estimations]]
+  - [[Methods/Chromosomal Instability Estimation]]
+
+
