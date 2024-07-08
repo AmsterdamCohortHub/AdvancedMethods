@@ -1,10 +1,8 @@
 --
 aliases:
-  - Treatment Effects
+  - Predictive Models
 ---
-
-Causal inference is a field of statistics and data science that focuses on identifying and quantifying cause-and-effect relationships between variables. It aims to answer questions like "Does X cause Y?" or "What is the effect of changing X on Y?"
-
+Prediction and modeling is a process that involves creating a simplified representation of a system or phenomenon (modeling) to understand its underlying structure and behavior, and then using that model to forecast future events or values (prediction).
 ## Researchers
 
   - [[Researchers/Dirk van Pelt]]
