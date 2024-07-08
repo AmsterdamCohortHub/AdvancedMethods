@@ -21,7 +21,7 @@ Item Response Theory is a statistical framework used to analyze and interpret te
 
 ## Topics
 
-  - [[Topics/Behavioural Science Analysis]]
+  - [[Topics/Behavioural Science]]
 
 ## Researcher
 
