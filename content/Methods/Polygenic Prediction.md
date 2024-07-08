@@ -20,7 +20,7 @@ Polygenic prediction is a method of estimating an individual's genetic predispos
 ## Topics
 
   - [[Topics/Genetics]]
-  - [[Topics/Omics]]
+  - [[Topics/Intergrative Omics]]
 
 ## Researcher
 
