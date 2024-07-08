@@ -1,4 +1,4 @@
---
+---
 aliases:
   - Elastic Matching
   - Time Series Alignment
