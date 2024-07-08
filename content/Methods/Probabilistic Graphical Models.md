@@ -20,6 +20,7 @@ Probabilistic Graphical Models (PGMs) are a powerful framework for representing 
 ## Topics
 
   - [[Topics/Prediction and Modelling]]
+  - [[Topics/Bayesian Approaches]]
 
 ## Researcher
 
