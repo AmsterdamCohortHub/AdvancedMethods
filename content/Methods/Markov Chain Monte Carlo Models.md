@@ -20,6 +20,7 @@ Markov Chain Monte Carlo (MCMC) methods are a class of algorithms used to sample
 ## Topics
 
   - [[Topics/Prediction and Modelling]]
+  - [[Topics/Bayesian Approaches]]
 
 ## Researcher
 
