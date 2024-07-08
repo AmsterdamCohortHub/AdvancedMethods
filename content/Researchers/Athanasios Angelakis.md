@@ -1,6 +1,5 @@
 ## Methods
 
-  - [[Methods/Artificial Intelligence]]
   - [[Methods/Machine Learning]]
   - [[Methods/Deep Learning]]
   - [[Methods/Cybersecurity and Cryptography]]
@@ -9,7 +8,6 @@
 ## Topics
 
   - [[Topics/Artificial Intelligence]]
-  - [[Topics/Machine Learning]]
   - [[Topics/Data Encryption]]
 
 ## Resources
