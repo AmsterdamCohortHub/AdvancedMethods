@@ -1,6 +1,5 @@
 ## Methods
 
-  - [[Methods/Computational Modelling]]
   - [[Methods/Drift Diffusion Modelling]]
   - [[Methods/Bayesian Modelling]]
   - [[Methods/Probabilistic Graphical Models]]
