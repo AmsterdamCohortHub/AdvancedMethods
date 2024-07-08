@@ -1,3 +1,4 @@
+Phenotypic data in medicine and public health encompasses the observable characteristics, traits, and behaviors of individuals or populations. This data can be either cross-sectional, such as measuring blood pressure during a single doctor's visit, or longitudinal, such as tracking changes in weight over time.
 
 ## Statistical and Machine Learning Methods
 
