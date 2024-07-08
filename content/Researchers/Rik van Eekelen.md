@@ -3,7 +3,6 @@
 
   - [[Methods/Target Trial Emulation]]
   - [[Methods/Dynamic Prediction]]
-  - [[Methods/Prediction Models]]
 
 ## Topics
 
