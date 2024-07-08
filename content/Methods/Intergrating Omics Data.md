@@ -18,7 +18,7 @@ Integrating omics data involves combining multiple types of biological data (e.g
 ## Topics
 
   - [[Topics/Genetics]]
-  - [[Topics/Omics]]
+  - [[Topics/Intergrative Omics]]
 
 ## Researcher
 
