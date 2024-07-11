@@ -1,5 +1,5 @@
 ---
-title: WG2 - Advanced Methods
+title: Advanced Methods Working Group
 ---
 
 The Advanced Methods Working Group (AMWG) is a dedicated team of experts within the Amsterdam Cohort Hub, focused on integrating the latest methodological innovations into cohort studies. By fostering collaboration, providing training, and staying abreast of advancements, this group ensures research conducted by the hub utilizes the most up to date and cutting edge techniques, ultimately strengthening research impact on public health.

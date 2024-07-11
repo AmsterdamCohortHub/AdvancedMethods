@@ -12,5 +12,3 @@
 
 ## Resources
 
-  - [ORCID]()
-  - [Amsterdam UMC]()
