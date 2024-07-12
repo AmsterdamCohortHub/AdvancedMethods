@@ -23,7 +23,7 @@ Response Surface Analysis (RSA), also known as Response Surface Methodology (RSM
 
 ## Researchers
 
-- [[Researchers/Dirk van Pelt]]
+- [[Researchers/Dirk Pelt]]
 
 ## Resources
 

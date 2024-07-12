@@ -3,7 +3,7 @@
   - [[Methods/Drift Diffusion Modelling]]
   - [[Methods/Bayesian Modelling]]
   - [[Methods/Probabilistic Graphical Models]]
-  - [[Methods/Markov Chain Monte Carlo Models]]
+  - [[Methods/Markov Chain Monte Carlo]]
 
 ## Topics
 

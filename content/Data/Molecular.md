@@ -14,5 +14,5 @@ Molecular data in medicine and public health encompasses information about the s
 
   - [[Methods/Deep Learning]]
   - [[Methods/Machine Learning]]
-  - [[Methods/Markov Chain Monte Carlo Models]]
+  - [[Methods/Markov Chain Monte Carlo]]
   - [[Methods/Mendelian Randomization]]

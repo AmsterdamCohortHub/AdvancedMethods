@@ -23,7 +23,7 @@ Bayesian modeling is a statistical framework based on Bayes' theorem, which allo
 ## Researcher
 
   - [[Researcher/Roland van Mossel]]
-  - [[Researcher/Dirk van Pelt]]
+  - [[Researcher/Dirk Pelt]]
 
 ## Resources
 

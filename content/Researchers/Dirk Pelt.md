@@ -9,7 +9,7 @@
 
   - [[Topics/Prediction and Modelling]]
   - [[Topics/Bayesian Approaches]]
-  - [[Topics/Behaviour Science Analysis]]
+  - [[Topics/Behaviour Science]]
 
 ## Resources
   - [ORCID](https://orcid.org/0000-0001-5926-5247)

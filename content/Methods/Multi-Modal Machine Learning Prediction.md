@@ -25,7 +25,7 @@ Multi-modal machine learning prediction utilizes complex algorithms and statisti
 
 ## Researcher
 
-  - [[Researcher/Dirk van Pelt]]
+  - [[Researcher/Dirk Pelt]]
 
 ## Resources
 

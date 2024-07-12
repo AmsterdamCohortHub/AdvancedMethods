@@ -10,7 +10,7 @@ Phenotypic data in medicine and public health encompasses the observable charact
   - [[Methods/Dynamic Time Warping]]
   - [[Methods/Item Response Theory]]
   - [[Methods/Machine Learning]]
-  - [[Methods/Markov Chain Monte Carlo Models]]
+  - [[Methods/Markov Chain Monte Carlo]]
   - [[Methods/Multi-Modal Machine Learning Prediction]]
   - [[Methods/Non-Negative Matrix Factorisation]]
   - [[Methods/Probabilistic Graphical Models]]

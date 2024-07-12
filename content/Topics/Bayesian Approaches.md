@@ -8,7 +8,7 @@ Bayesian approaches are a set of statistical methods based on Bayes' theorem, wh
 ## Researchers
 
   - [[Researchers/Roland van Mossel]]
-  - [[Researchers/Dirk van Pelt]]
+  - [[Researchers/Dirk Pelt]]
  
 ## Methods
 

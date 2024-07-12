@@ -3,7 +3,7 @@ Behavioral science is a multidisciplinary field that investigates the cognitive 
 
 ## Researchers
 
-  - [[Researchers/Dirk van Pelt]]
+  - [[Researchers/Dirk Pelt]]
   - [[Researchers/Roland van Mossel]]
  
 ## Methods
